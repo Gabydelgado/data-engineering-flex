@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-#import utils
 from scripts import utils
 
 from configparser import ConfigParser
